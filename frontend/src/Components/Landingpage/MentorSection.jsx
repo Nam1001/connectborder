@@ -12,7 +12,7 @@ function MentorSection() {
       </div>
       <div className='mentor-sector-cards-container'>
         <div className="mentor-section-card-item">
-              
+              card
         </div>
 
       </div>
